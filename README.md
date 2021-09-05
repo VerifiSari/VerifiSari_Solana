@@ -1,4 +1,4 @@
 # VerifiSari_Solana
 
 
-Credits: @jsoneaday
+Credits: Heavily influenced by @jsoneaday
